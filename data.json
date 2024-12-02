@@ -1,0 +1,28 @@
+{
+    "crypto_sectors": {
+        "AI": [
+            "sharpe-ai",
+            "parallelai",
+            "destra-network",
+            "nuklai"
+        ],
+        "Gaming": [
+            "crown-by-third-time-games",
+            "gameswift"
+        ]
+    },
+    "targets": {
+        "uniswap": 100.0,
+        "aave": 100.0,
+        "curve-dao-token": 100.0,
+        "decentraland": 100.0,
+        "the-sandbox": 100.0,
+        "axie-infinity": 100.0,
+        "sharpe-ai": 0.5,
+        "parallelai": 5.0,
+        "destra-network": 7.0,
+        "crown-by-third-time-games": 10.0,
+        "gameswift": 2.0,
+        "nuklai": 2.0
+    }
+}
